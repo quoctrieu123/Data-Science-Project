@@ -1,7 +1,7 @@
 # Data-Science-Project
  This is the NN model for our DS project
 
-To test the model, we need to run:
+**To test the model, we need to run**:
 
 1. Download the model in the file: best_model.pth
 2. Download requirement.txt, infer.py in our respiratory
